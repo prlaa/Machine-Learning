@@ -1,7 +1,7 @@
 ### k-Nearest Neighbors (k-NN)
  <img src="/notes/misc/kNearestNeighbors.png" alt="kNearestNeighbor" width="350"/>
-Uses proximity to existing data to classify new data. [knn Documentation](https://scikit-learn.org/stable/api/sklearn.neighbors.html)
-
+Uses proximity to existing data to classify new data. 
+<a href="knn Documentation">https://scikit-learn.org/stable/api/sklearn.neighbors.html</a>
 
 ```ruby
 from sklearn.neighbors import KNeightborsClassifier
